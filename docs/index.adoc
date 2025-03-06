@@ -16,7 +16,7 @@ An example of a basic https://asciidoc.org[AsciiDoc] document prepared by {autho
 A paragraph followed by an unordered list{empty}footnote:[AsciiDoc supports unordered, ordered, and description lists.] with square bullets.footnote:[You may choose from square, disc, and circle for the bullet style.]
 
 [square]
-* item 1
+* item 1sdsds
 * item 2
 * item 3
 
