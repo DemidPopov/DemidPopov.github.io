@@ -1,5 +1,5 @@
 = Demid Popov
-Technical Writer <popov.demid@gmail.com>
+Senior Technical Writer <popov.demid@gmail.com>
 :reproducible:
 :listing-caption: Listing
 :source-highlighter: rouge
