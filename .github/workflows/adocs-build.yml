@@ -1,4 +1,4 @@
-ame: build adocs
+name: build adocs
 
 on:
   push:
