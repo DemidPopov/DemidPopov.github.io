@@ -1,5 +1,5 @@
 = Demid Popov
-Doc Writer <doc@example.com>
+Technical Writer <popov.demid@gmail.com>
 :reproducible:
 :listing-caption: Listing
 :source-highlighter: rouge
