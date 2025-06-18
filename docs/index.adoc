@@ -1,4 +1,4 @@
-= Document Title
+= Demid Popov
 Doc Writer <doc@example.com>
 :reproducible:
 :listing-caption: Listing
