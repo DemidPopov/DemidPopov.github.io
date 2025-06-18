@@ -1,4 +1,4 @@
-= Demid Popov
+= Demid Popovd
 Senior Technical Writer <popov.demid@gmail.com>
 :reproducible:
 :listing-caption: Listing
